@@ -1,5 +1,4 @@
 print("Hello!")
 print("Hello, world!")
 print("Hello, universe!")
-
-cod
+print("Hello, multiverse!")
